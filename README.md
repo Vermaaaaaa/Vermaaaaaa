@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Rahul Verma, and I'm passionate about low-level software and hardware development. Currently, I'm diving deep into the fascinating world of the Chip 8 virtual machine, exploring both software and hardware aspects.
+Hello there! 👋 I'm Rahul Verma, a student at the University of Leeds, and I'm passionate about low-level software and hardware development. Currently, I'm diving deep into the fascinating world of the Chip 8 virtual machine, exploring both software and hardware aspects.
 
 ## What I'm Working On
 
@@ -7,9 +7,11 @@ Hello there! 👋 I'm Rahul Verma, and I'm passionate about low-level software a
 
 - **Chip 8 Console Project**: Excitingly, I'm also delving into the realm of hardware development. My goal is to create a custom Chip 8 console using microprocessors, combining my interests in low-level circuit design and software development.
 
+- **FPGA Design**: I'm currently diving into FPGA design with Verilog, starting with smaller circuits like adders and multipliers as I explore the exciting world of FPGAs.
+
 ## Collaboration Opportunities
 
-I'm always on the lookout for collaboration opportunities, especially in areas like Verilog, FPGA design, and embedded development using C and C++. If you share a passion for these topics or want to explore the Chip 8 further, don't hesitate to reach out!
+I'm always on the lookout for collaboration opportunities, especially in areas like Verilog, FPGA design, and embedded/low level development using C and C++. If you share a passion for these topics or want to explore the Chip 8 further, don't hesitate to reach out!
 
 ## How You Can Contribute
 
@@ -23,10 +25,8 @@ Whether you're a seasoned developer or just starting out, there are many ways to
 
 ## Get in Touch
 ## 🌐 Socials:
-Interested in collaborating or just want to say hi? Feel free to reach out to me via LinkedIn
+Interested in collaborating or just want to say hi? Feel free to reach out to me via 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-verma-a288392b6) 
-
-Let's embark on this exciting journey together into the world of low-level software and hardware development with the Chip 8!
 
 Happy coding!
 
