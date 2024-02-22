@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm [Your Name], and I'm passionate about low-level software and hardware development. Currently, I'm diving deep into the fascinating world of the Chip 8 virtual machine, exploring both software and hardware aspects.
+Hello there! 👋 I'm Rahul Verma, and I'm passionate about low-level software and hardware development. Currently, I'm diving deep into the fascinating world of the Chip 8 virtual machine, exploring both software and hardware aspects.
 
 ## What I'm Working On
 
@@ -22,8 +22,9 @@ Whether you're a seasoned developer or just starting out, there are many ways to
 - **Feedback and Ideas**: Share your thoughts, ideas, or suggestions for the project's direction and goals.
 
 ## Get in Touch
-
-Interested in collaborating or just want to say hi? Feel free to reach out to me via email [your email] or connect with me on [social media platform].
+## 🌐 Socials:
+Interested in collaborating or just want to say hi? Feel free to reach out to me via LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-verma-a288392b6) 
 
 Let's embark on this exciting journey together into the world of low-level software and hardware development with the Chip 8!
 
