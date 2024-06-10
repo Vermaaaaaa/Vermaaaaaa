@@ -18,7 +18,7 @@ I'm always on the lookout for collaboration opportunities, especially in areas l
 Interested in collaborating or just want to say hi? Feel free to reach out to me via 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-verma-a288392b6) 
 
-Happy coding!
+
 
 
 
